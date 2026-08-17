@@ -15,19 +15,8 @@ A simple and user-friendly **Calculator Web Application** that performs basic ma
 *  Fast and easy to use
 
 ##  Technologies Used
-
 * Python
-##  Purpose
-
-This project was created to practice and demonstrate fundamental **web development concepts**, including:
-
-* DOM manipulation
-* JavaScript functions
-* Event handling
-* HTML structure
-* CSS styling
-* User input handling
-
+  
 ##  Author
 
 **Prayush Shrestha**
