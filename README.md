@@ -16,10 +16,7 @@ A simple and user-friendly **Calculator Web Application** that performs basic ma
 
 ##  Technologies Used
 
-* HTML
-* CSS
-* JavaScript
-  
+* Python
 ##  Purpose
 
 This project was created to practice and demonstrate fundamental **web development concepts**, including:
